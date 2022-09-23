@@ -1,0 +1,97 @@
+main{
+    margin-bottom: 108px;
+}
+.signin{
+
+}
+.signin .signin-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 108px;
+    margin-bottom: 116px;
+}
+.signin .signin-flex .sign-flex-left,
+.signin .signin-flex .sign-flex-right{
+    width: 676px;
+    height: 707px;
+    background-color: rgba(217, 217, 217, 1);
+    font-size: 23px;
+    padding-top: 82px;
+    padding-left: 90px;
+    padding-right: 139px;
+}
+.signin .signin-flex .sign-flex-right{
+    background-color: rgba(70, 67, 67, 1);
+    color: #ffffff;
+}
+.signin .signin-flex .sign-flex-left p{
+    font-size: 16px;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 51px;
+}
+.signin .signin-flex .sign-flex-left h2 a{
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+.signin .signin-flex .sign-flex-left h2{
+    margin-bottom: 23px;
+}
+.signin .signin-flex .sign-flex-left .sign-form label{
+    display: block;
+    width: 486px;
+    height: 72px;
+    border: 1px solid rgba(61, 60, 60, 1);
+}
+.signin .signin-flex .sign-flex-left .sign-form label input{
+    width: 100%;
+    height: 72px;
+    background-color: inherit;
+}
+.signin .signin-flex .sign-flex-left .sign-form label{
+    margin-bottom: 26px;
+}
+.signin .signin-flex .sign-flex-left .sign-form button{
+    width: 486px;
+    height: 72px;
+    /* height: 72px; */
+    background-color:rgba(61, 60, 60, 1);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    align-items: center;
+}
+.signin .signin-flex .sign-flex-right h2{
+    font-size: 40px;
+    font-weight: 700;
+    width: 334px;
+    height: 134px;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 40px !important;
+}
+.signin .signin-flex .sign-flex-right p{
+    font-size: 16px;
+    margin-bottom: 28px;
+}
+.signin .signin-flex .sign-flex-right ul{
+    font-size: 12px;
+    list-style-type:none;
+    margin-left: 50px;
+    margin-bottom: 33px;
+}
+.signin .signin-flex .sign-flex-right ul li{
+    margin-bottom: 20px;
+}
+.signin .signin-flex .sign-flex-right .btn-grop button{
+    width: 341px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    background-color: rgba(217, 217, 217, 1);
+}

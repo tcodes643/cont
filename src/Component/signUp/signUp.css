@@ -1,0 +1,158 @@
+main .sign-cont{
+    display: flex;
+}
+main .sign-cont .sign-cont-left{
+    margin-right: 112px;
+}
+main .sign-cont .sign-cont-left h2{
+    font-size: 36px;
+    width: 447px;
+    height: 134px;
+    font-weight: 700;
+    margin-bottom: 39px;
+}
+main .sign-cont .sign-cont-left p{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: roboto;
+    color: #000000;
+    width: 511px;
+    height: 81px;
+}
+main .sign-cont .sign-cont-left .form{
+    margin-top: 44px;
+}
+main .sign-cont .sign-cont-left .form form label{
+    width: 486px;
+    height: 72px;
+    border: 3px solid black !important;
+    border-radius: 5px;
+    border: 1px solid rgba(61, 60, 60, 1);
+    display: block;
+    margin-bottom: 14px;
+    position: relative;
+}
+main .sign-cont .sign-cont-left .form form label input{
+    width: 100%;
+    height: 67px;
+    padding-left: 20px;
+    border: none;
+}
+main .sign-cont .sign-cont-left .form form label button{
+    position: absolute;
+    top: 15px;
+    right: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+main .sign-cont .sign-cont-left .form form label button:hover{
+    background-color: #000000;
+    color: #ffffff;
+    transition: all linear .2s;
+}
+main .sign-cont .sign-cont-left .form-flex{
+    display: flex;
+    margin-bottom: 40px;
+}
+main .sign-cont .sign-cont-left .form-flex div:nth-of-type(1) i{
+    width: 16px;
+    height: 16px;
+    border-radius: 100px;
+    margin-right: 26px;
+    font-size: 25px;
+}
+main .sign-cont .sign-cont-left .form-flex div:nth-of-type(2){
+    margin: 10px 0;
+}
+main .sign-cont .sign-cont-left .form .check-box-flex{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+}
+main .sign-cont .sign-cont-left .check-box-flex .label{
+    width: 37px;
+    height: 17px;
+    border: 1px solid #ffffff;
+    margin-right: 10px;
+    background-color: #56C568;
+    border-radius: 100px;
+    position: relative;
+    bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+main .sign-cont .sign-cont-left .check-box-flex .label::after{
+    position: absolute;
+    content: "";
+    width: 13px;
+    height: 13px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    bottom: 1px;
+    left: 2px;
+}
+main .sign-cont .sign-cont-left .check-box-flex div p{
+    width: 321px;
+}
+main .sign-cont .sign-cont-left .iopoi .inst{
+    margin-bottom: 12px;
+}
+main .sign-cont .sign-cont-left .iopoi .inst p{
+    margin-left: 10px;
+}
+main .sign-cont .sign-cont-left .iopoi .inst label input{
+    position: relative;
+    top: 22px;
+    right: 18px;
+    width: 20px;
+    height: 20px;
+}
+main .sign-cont .sign-cont-left .iopoi .inst label p{
+    font-weight: 500;
+}
+main .sign-cont .sign-cont-left .iopoi .btn-group button{
+    width: 345px;
+    height: 72px;
+    background-color: rgba(217, 217, 217, 1);
+    color: #000000;
+}
+main .sign-cont .sign-contleft .iopoi .btn-group button span{
+    display: inline-block;
+}
+main .sign-cont .sign-contleft .iopoi .btn-group button span i{
+    margin-left: 100px;
+}
+main .sign-cont .sign-cont-left .iopoi .btn-group{
+    margin-bottom: 210px;
+}
+main .sign-cont .sign-cont-right div{
+    width: 475px;
+    /* height: 376px; */
+    background-color: rgba(217, 217, 217, 0.2);
+    padding: 62px 42px 30px 70px;
+}
+main .sign-cont .sign-cont-right h2{
+    font-size: 36px;
+    width: 362px;
+    height: 134px;
+    font-family: inter;
+}
+main .sign-cont .sign-cont-right .btn-grop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main .sign-cont .sign-cont-right .btn-grop button{
+    width: 345px;
+    height: 72px;
+    background-color: rgba(217, 217, 217, 1);
+    border: none;
+    font-size: 12px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

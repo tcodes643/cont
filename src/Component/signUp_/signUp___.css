@@ -1,0 +1,153 @@
+.signup___{
+
+}
+.signup___-flex{
+    display: flex;
+    align-items: center;
+}
+.signup___-flex .left{
+    width: 706px;
+    height: 1112px;
+    background-color: rgba(217, 217, 217, 0.2);
+    padding-top: 106px;
+    padding-left: 121px;
+    padding-right: 49px;
+    padding-bottom: 150px;
+}
+.signup___-flex .left h2{
+    width: 536px;
+    margin-bottom: 16px;
+}
+.signup___-flex .left p{
+    width: 379px;
+    font-size: 14px;
+}
+.signup___-flex .left h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+.signup___-flex .left form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 48px;
+}
+.signup___-flex .left form select{
+    border:none;
+    border-radius: 5px;
+    border: 1px solid rgba(61, 60, 60, 1) !important;
+    color: rgba(61, 60, 60, 1);
+    padding: 0 15px;
+    margin-bottom: 9px;
+    width: 468px;
+    border: none;
+    padding: 0 20px;
+    background-color: #ffffff;
+}
+.signup___-flex .left form select,
+.signup___-flex .left form button{
+    width: 468px;
+    height: 72px;
+}
+.signup___-flex .left form button{
+    border: none;
+    background-color: rgba(217, 217, 217, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    border-radius: 5px;
+}
+.signup___ .signup___-flex .left .cont-flex{
+    display: flex;
+    align-items: center;
+    margin-top: 39px; 
+}
+.signup___ .signup___-flex .left .cont-flex{}
+.signup___ .signup___-flex .left .cont-flex .cont-flex-right{
+    width: 292px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.signup___ .signup___-flex .left .cont-flex .cont-flex-right p{
+    width: 120px;
+}
+.signup___ .signup___-flex .left .cont-flex .cont-flex-left{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+.signup___-flex .right .right-cont-2 .right-cont-box{
+    background-color: rgba(217, 217, 217, 1);
+    width: 456px;
+    height: 340px;
+    padding-top: 38px;
+    padding-left: 53px;
+    padding-bottom: 47px;
+    padding-right: 25px;
+    margin-top: 50px;
+}
+.signup___-flex .right .right-cont{
+    width: 560px;
+    height: 184px;
+    border: 1px solid rgba(217, 217, 217, 1);
+}
+.signup___-flex .right .right-cont h2{
+    font-weight: 700;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 1);
+}
+.signup___-flex .right .right-cont{
+    margin-left: 17px;
+    padding-top: 33px;
+    padding-left: 46px;
+}
+.signup___-flex .right .rignt-cont h2{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: inter;
+}
+.signup___-flex .right .right-cont-2 ul{
+    list-style-type:none;
+    font-size: 12px;
+    font-weight: 500;
+    width: 300px;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.signup___-flex .right .right-cont-2{
+    padding-left: 65px;
+}
+.signup___-flex .right .right-cont-2 ul li{
+    margin-top: 13px;
+}
+.signup___-flex .right .right-cont-2 .toggle button{
+    display: flex;
+    align-items: center;
+    width: 400px;
+    border-bottom: 2px solid black;
+    border:none;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+.signup___-flex .right .right-cont-2 .toggle button i{
+    font-size: 20px;
+}
+.signup___ .btn-gop{
+    margin-top: 28px;
+    margin-bottom: 32px;
+}
+.signup___ .btn-gop button{
+    width: 142px;
+    height: 34px;
+    border: 1px solid rgba(148, 148, 148, 1);
+    font-size: 12px;
+    font-weight: 700;
+    font-family: inter;
+    color: rgba(0, 0, 0, 1);
+    background-color: #ffffff;
+    margin-left: 50px;
+}

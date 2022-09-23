@@ -1,0 +1,295 @@
+.pay-cont .pay-flex{
+    display: flex;
+    /* align-items: center; */
+}
+.pay-cont .pay-flex .pay-flex-left{
+    width: 775px !important;
+    height: 1118px;
+    background-color: rgba(217, 217, 217, 0.2);
+    padding-top: 109px;
+    padding-left: 45px;
+    margin-right: 122px;
+    padding-right: 52px;
+}
+.pay-cont .pay-flex .btn{
+    margin-top: 25px;
+    background-color: black;
+    margin-bottom: 32px;
+}
+.pay-cont .btn{
+    margin-top: 25px;
+    margin-bottom: 32px;
+}
+.pay-cont .btn button{
+    width: 80px;
+    height: 34px;
+    border: 2px solid rgba(148, 148, 148, 1);
+    font-size: 12px;
+    font-family: inter;
+    font-weight: 700;
+    color: #000000;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .lab-comp input{
+    width: 246px;
+    height: 72px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .lab-nip input{
+    width: 209px;
+    height: 72px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .lab-cont{
+    display: flex;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .lab-cont button{
+    width: 145px;
+    height: 72px;
+    background-color: rgba(217, 217, 217, 1);
+    color: #000000;
+    border: none;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .lab-nip,
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .lab-comp{
+    display: flex;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo h1{
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo p{
+    font-size: 14px;
+    margin-bottom: 48px;
+}
+.pay-cont .pay-flex .pay-flex-left form .fo-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 610px;
+}
+.pay-cont .pay-flex .pay-flex-left form .fo-cont .div{
+    width: 210px;
+    heighT: 48px;
+    display: flex;
+    align-items: center;
+}
+.pay-cont .pay-flex .pay-flex-left form .fo-cont .div img{
+    width: 50px !important;
+    height: 50px !important;
+}
+.pay-cont .pay-flex .pay-flex-left form .fo-cont{
+    margin-top: 75px;
+}
+.pay-cont .pay-flex .pay-flex-left form .fo-cont .div2 button{
+    width: 350px;
+    height: 72px;
+    background-color: rgba(176, 16, 16, 1);
+    color: #ffffff;
+    display: flex;
+    border:none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    margin-left: 12px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo p{
+    width: 515px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo h2{
+    font-size: 20px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo label{
+    display: flex;
+    align-items:center;
+    margin-top: 15px;
+    position: relative;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo label input{
+    /* opacity: 0; */
+    position: absolute;
+    top: 3px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo label p{
+    margin-left: 30px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two h2{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: inter;
+    margin-bottom: 20px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two .h2{
+    margin-top: 34px;
+    margin-bottom: 12px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two label{
+    display: flex;
+}
+
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two label input{
+    width: 468px;
+    height: 72px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 1px solid rgba(61, 60, 60, 1);
+    margin-right: 5px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two label button{
+    width: 145px;
+    height: 72px;
+    background-color: rgba(217, 217, 217, 1);
+    border:none;
+    border-radius: 5px;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two label input::placeholder{
+    color: #000000;
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two label input::placeholder{
+    color: rgba(61, 60, 60, 1);
+}
+.pay-cont .pay-flex .pay-flex-left form .promo-div-two h2{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: inter;
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one p{
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one h2{
+    margin-bottom: 15px;
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one label{
+    margin-bottom: 48px;
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one label select{
+    width: 330px;
+    height: 72px;
+    border-radius: 5px;
+    color: rgba(61, 60, 60, 1);
+    border:none;
+    display: block;
+    padding: 0 20px;
+    font-weight: 500;
+    background-color: #ffffff;
+    border: 1px solid rgba(61, 60, 60, 1);
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one .label-flex label{
+    margin-right: 14px;
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one .label-flex label span{
+    font-size: 12px;
+}
+.pay-cont .pay-flex .pay-flex-left form .cont-one .label-flex{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+hr{
+    width: 700px;
+    border-bottom: 1px solid rgba(217, 217, 217, 1);
+    margin-bottom: 18px;
+}
+
+/* flex-right */
+
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont{
+    width: 371px;
+    height: 588px;
+    background-color: rgba(217, 217, 217, 0.2);
+    padding-top: 86px;
+    padding-left: 37px;
+    padding-bottom: 72px;
+    margin-bottom: 80px !important;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div1{
+    margin-bottom: 20px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div2{
+    margin-bottom: 24px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div3{
+    font-size: 16px;
+    font-weight: 700;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top{
+    margin-bottom: 35px;
+    margin-right: 35px !important;
+    border-bottom: 1px solid rgba(217, 217, 217, 1);
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div3 p{
+    font-size: 12px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div3 h2{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: inter;
+    margin-bottom: 8px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div2 h2{
+    font-size: 20px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top button{
+    width: 272px;
+    border-bottom: 1px solid black;
+    background-color: 16px;
+    font-weight: 700;
+    color: #000000;
+    display: flex;
+    justify-content: left;
+    border:none;
+    background-color: inherit;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top button span{
+    margin-left: 15px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div2 p{
+    font-size: 12px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div1 h2{
+    font-size: 20px !important;
+    font-weight: 700;
+    font-family: inter;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div1 p{
+    font-weight: 500;
+    font-size: 12px;
+    font-family: inter;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div1{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent{
+    /* border: 1px solid black; */
+    width: 300px;
+    margin-bottom: 180px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 72px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div2 p:last-child{
+    color: rgba(195, 26, 26, 1);
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div1 div:last-child{
+    margin-left: 50px;
+    font-size: 25px;
+    color: rgba(189, 11, 11, 1);
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-bottom h2{
+    font-size: 16px;
+    margin-bottom: 22px;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-bottom p{
+    font-size: 12px;
+    font-weight: 700;
+    font-family: inter;
+}
+.pay-cont .pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-bottom p:last-child{
+    font-size: 16px;
+    margin-top: 5px;
+}

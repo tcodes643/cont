@@ -1,0 +1,230 @@
+.pay-flex{
+    display: flex;
+}
+.pay-flex .pay-flex-left{
+    padding-top: 100px;
+    padding-left: 42px;
+    padding-bottom: 22px;
+    margin-right: 119px;
+    background-color: rgba(217, 217, 217, 0.2);
+    /* border-bottom: 1px solid rgba(61, 60, 60, 1); */
+    width: 775px;
+    height: 1118px;
+}
+.pay-flex .pay-flex-left .div-cont_2 form label input{
+    width: 246px;
+    margin-right: 13px;
+    padding-left: 15px;
+    /* border: 1px solid black !important; */
+}
+.pay-flex .pay-flex-left .div-cont_3{
+    margin-top: 75px;
+}
+.pay-flex .pay-flex-left .div-cont_3 span{
+    width: 150px;
+    margin-left: 10px;
+}
+.pay-flex .pay-flex-left .div-cont_3 div:first-child{
+    width: 500px !important;
+}
+.pay-flex .pay-flex-left .div-cont_3 div:last-child button{
+    width: 350px;
+    height: 72px;
+    background-color: rgba(176, 16, 16, 1);
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-between;
+    padding: 0 30px;
+    align-items: center;
+    color: #ffffff;
+    font-size: 12px;
+}
+.pay-flex .pay-flex-left .div-cont_3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:663px;
+}
+.pay-flex .pay-flex-left .div-cont_3 div:first-child{
+    display: flex;
+}
+.pay-flex .pay-flex-left .div-cont_3 div:first-child img{
+    width: 50px;
+    height: 50px;
+}
+.pay-flex .pay-flex-left .div-cont_3 div:first-child{
+    width: 210px;
+    height: 48px;
+    font-weight: 700;
+}
+.pay-flex .pay-flex-left .div-cont_2 form label input,
+.pay-flex .pay-flex-left .div-cont_2 form button{
+    height: 72px;
+    border-radius: 5px;
+    border: none;
+}
+.pay-flex .pay-flex-left .div-cont_2 form button{
+    width: 145px;
+}
+.pay-flex .pay-flex-left .div-cont_2 h1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: inter;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 12px;
+}
+.pay-flex .pay-flex-left .div-cont_1{
+    margin-bottom: 90px;
+}
+.pay-flex .pay-flex-left .div-cont_1 div h2{
+    font-size: 36px;
+    width: 536px;
+    font-family: inter;
+    color: rgba(0, 0, 0, 1);
+}
+.pay-flex .pay-flex-left .div-cont_1 div p{
+    font-size: 14px;
+    margin-bottom: 22px;
+}
+.pay-flex .pay-flex-left .div-cont_1 form label input[type="text"]{
+    width: 596px;
+    height: 72px;
+    color: rgba(61, 60, 60, 1);
+    border-radius: 5px;
+    background-color: inherit;
+    border:none;
+    border: 1px solid black;
+    padding-left: 25px;
+    margin-bottom: 14px;
+}   
+.pay-flex .pay-flex-left .div-cont_1 form label:last-child input[type="text"]{
+    margin-bottom: 50px;
+}
+.pay-flex .pay-flex-left .div-cont_1 form .form-div{
+    margin-bottom: 83px;
+}
+.pay-flex .pay-flex-left .div-cont_1 form .opt{
+    margin-bottom: 40px;
+}
+hr{
+    width: 600px;
+}
+.pay-flex .pay-flex-left .div-cont_1 form .opt select{
+    width: 597px;
+    height: 72px;
+    border-radius: 5px;
+    color: rgba(61, 60, 60, 1);
+    border:none;
+    border: 1px solid rgba(61, 60, 60, 1);
+}
+.pay-flex .pay-flex-left .div-cont_1 form .form-div label{
+    display: flex;
+}
+.btn-group{
+    margin-left: 50px;
+}
+
+
+/* pay-flex-right */
+
+.pay-flex .pay-flex-right .pay-flex-right-cont{
+    width: 371px;
+    height: 588px;
+    background-color: rgba(217, 217, 217, 0.2);
+    padding-top: 86px;
+    padding-left: 37px;
+    padding-bottom: 72px;
+    margin-bottom: 80px !important;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div1{
+    margin-bottom: 20px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div2{
+    margin-bottom: 24px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div3{
+    font-size: 16px;
+    font-weight: 700;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top{
+    margin-bottom: 35px;
+    margin-right: 35px !important;
+    border-bottom: 1px solid rgba(217, 217, 217, 1);
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div3 p{
+    font-size: 12px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div3 h2{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: inter;
+    margin-bottom: 8px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div2 h2{
+    font-size: 20px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top button{
+    width: 272px;
+    border-bottom: 1px solid black;
+    background-color: 16px;
+    font-weight: 700;
+    color: #000000;
+    display: flex;
+    justify-content: left;
+    border:none;
+    background-color: inherit;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top button span{
+    margin-left: 15px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div2 p{
+    font-size: 12px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div1 h2{
+    font-size: 20px !important;
+    font-weight: 700;
+    font-family: inter;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-top .div1 p{
+    font-weight: 500;
+    font-size: 12px;
+    font-family: inter;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div1{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent{
+    /* border: 1px solid black; */
+    width: 300px;
+    margin-bottom: 180px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 72px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div2 p:last-child{
+    color: rgba(195, 26, 26, 1);
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-cent .div1 div:last-child{
+    margin-left: 50px;
+    font-size: 25px;
+    color: rgba(189, 11, 11, 1);
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-bottom h2{
+    font-size: 16px;
+    margin-bottom: 22px;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-bottom p{
+    font-size: 12px;
+    font-weight: 700;
+    font-family: inter;
+}
+.pay-flex .pay-flex-right .pay-flex-right-cont .pay-right-bottom p:last-child{
+    font-size: 16px;
+    margin-top: 5px;
+}

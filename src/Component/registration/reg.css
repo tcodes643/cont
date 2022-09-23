@@ -1,0 +1,20 @@
+.reg-flex,
+.d-flex{
+    display: flex;
+}
+.reg-flex .reg-left .reg-cont{
+    width: 836px;
+    height: 2811px;
+    background-color: rgba(217, 217, 217, 0.2);
+}
+.reg-flex .reg-left .reg-cont h2{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: inter;
+}
+.reg-flex .reg-left .reg-cont form label input{
+    width: 680px;
+    height: 72px;
+    border-radius: 5px;
+    border: 1px solid rgba(61, 60, 60, 1);
+}
