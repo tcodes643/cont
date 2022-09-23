@@ -12,7 +12,7 @@
     font-weight: 700;
     font-family: inter;
 }
-.reg-flex .reg-left .reg-cont form label input{
+.reg-flex .reg-left .reg-cont form label input[type="text"]{
     width: 680px;
     height: 72px;
     border-radius: 5px;

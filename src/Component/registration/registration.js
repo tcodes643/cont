@@ -27,9 +27,39 @@ function Reg(){
                                     </label>
                                 </div>
                                 <div className="reg-cent">
-                                    <label for="">
-                                        <input type="" />
-                                    </label>
+                                    <h2>Other personal details</h2>
+                                    <select>
+                                        <option>PASSWORD</option>
+                                    </select>
+                                    <div>
+                                        <div>
+                                            <span>Card of the Pole (Polish Nationality Card)</span>
+                                        </div>
+                                        <div>
+                                            <label for="">
+                                                <input type="radio" />
+                                                <span>Yes</span>
+                                            </label>
+                                            <label for="">
+                                                <input type="radio" />
+                                                <span>No</span>
+                                            </label>
+                                        </div>
+                                        <label for="">
+                                            <option>
+                                                <select>LEGAL BASIS FOR STAYING IN POLAND (E.G VISA, PERMIT</select>
+                                            </option>
+                                        </label>
+                                        <label for="">
+                                            <select>
+                                                <option>MAY LEGALLY STAY IN POLAND UNTIL (BASES ON A VISA OR PERMIT)</option>
+                                            </select>
+                                        </label>
+                                        <label for="">
+                                            <input type="checkbox" />
+                                            <span>I do not have a PESEL code</span>
+                                        </label>
+                                    </div>
                                 </div>
                             </form>
                         </div>
